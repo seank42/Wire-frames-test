@@ -1,2 +1,17 @@
-$primary: rgb(20, 70, 208);
+@import url('https://fonts.googleapis.com/css2?family=Mada:wght@300;400;500;600;700&display=swap');
+
+
+// colours//
+$primary: rgb(33, 80, 211);
+// $danger: rgb(138, 11, 26);
+$danger: rgb(27, 160, 152);
+$light: rgb(222, 185, 146);
+$success: rgb(255, 255, 255);
+$secondary: rgb(87, 87, 87);
+$warning: rgb(184, 33, 33);
+
+// FONT
+$font-family-base: "Mada";
+
 @import "../node_modules/bootstrap/scss/bootstrap.scss";
+
